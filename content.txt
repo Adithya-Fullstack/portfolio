@@ -1,0 +1,17 @@
+nav bar details 
+ left side my name and proffesoinal details
+
+ nav bar headings 
+about
+
+
+portfolio
+ -- Designer
+ -- web Devloper
+
+
+ say hello --> contact
+
+
+
+
